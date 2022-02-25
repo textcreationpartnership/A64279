@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tear dropt from the hearse of the Reverend Dr. Benjamin Calamy, late minister of St. Lawrence Jury London, who departed this life on Sunday the 3d of January, 1685/6</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64279</idno>
+            <idno type="STC">Wing T606</idno>
+            <idno type="STC">ESTC R2347</idno>
+            <idno type="EEBO-CITATION">11950197</idno>
+            <idno type="OCLC">ocm 11950197</idno>
+            <idno type="VID">51370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tear dropt from the hearse of the Reverend Dr. Benjamin Calamy, late minister of St. Lawrence Jury London, who departed this life on Sunday the 3d of January, 1685/6</title>
+               </titleStmt>
+               <extent>1 sheet (2 columns)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calamy, Benjamin, 1642-1686.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:51370:1" rendition="simple:additions"/>
+            <head>A TEAR DROPT FROM THE HEARSE Of the Reverend Dr. Benjamin Calamy; LATE Miniſter of St. <hi>Lawrence Jury London,</hi> Who departed this Life on <hi>Sunday</hi> the <hi>3d</hi> of <hi>January,</hi> 1685/6</head>
+            <epigraph>
+               <q>
+                  <hi>Quis matrem in funere Nati Here vetat?</hi>
+               </q>
+            </epigraph>
+            <lg>
+               <l>AS when ſome Tempeſt rages in the Air,</l>
+               <l>And againſt all the Wood proclaims a War,</l>
+               <l>The Humble <hi>Shrubs</hi> are ſcarce concern'd at all,</l>
+               <l>Only the <hi>Oaks</hi> and mighty <hi>Cedars</hi> Fall;</l>
+               <l>Thoſe are a Prize to Beggerly and Low,</l>
+               <l>But theſe become the Greatneſs of the Foe.</l>
+               <l>Thoſe remain Safe, becauſe Defenceleſs quite,</l>
+               <l>But againſt theſe doth their own Greatneſs Fight.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Duſt,</hi> thus it is in the Aſſaults of Fate,</l>
+               <l>The Common Herd is ſeldome Brave or Great;</l>
+               <l>They by the Foe do Unregarded ly,</l>
+               <l>And Live ſo long till they wou'd choſe to Die.</l>
+               <l>But where you ſee a large and ſpacious Mind,</l>
+               <l>Where Worth and Virtue are with Learning join'd;</l>
+               <l>Where Noble Thoughts do with like Deeds conſpire,</l>
+               <l>And the whole Man is Perfect and Intire;</l>
+               <l>There you may ſee the Malice of our Fate,</l>
+               <l>And what Misfortunes doth on Virtue wait,</l>
+               <l>Whil'ſt thoſe that never could deſerve to Die,</l>
+               <l>But might have Challeng'd Immortality,</l>
+               <l>Meet ſtill the ſooneſt with their Deſtiny.</l>
+               <l>Theſe are the Nobleſt, and the greateſt Prey,</l>
+               <l>And Fate by this, goes a compendious way;</l>
+               <l>For ſhe Wounds us, whil'ſt ſhe doth theſe Men Slay.</l>
+               <l>Thus he Great <hi>BEN</hi> with all his Learning Dies;</l>
+               <l>Too Early, and too Dear a SACRIFICE.</l>
+               <l>He whoſe great mind was with all uſeful Knowledge fraught,</l>
+               <l>That Nature ever gave, or Art has Taught;</l>
+               <l>He and his Worth are Wither'd, cold, and Dead,</l>
+               <l>And the Treaſures of his Mind are Fled:</l>
+               <l>Nothing has ſcap'd the fierce and angry Flame,</l>
+               <l>But his great Memory and Immortal Name.</l>
+               <l>Nought ſuch a Loſs can equal or befit</l>
+               <l>Leſs than his powerful Eloquence and Wit;</l>
+               <l>Some ſmall remains of thoſe with us abide,</l>
+               <l>But all the reſt the envious Dark doth hide.</l>
+               <l>Some ſingle Sheets indeed the Preſs imparts,</l>
+               <l>The reſt are writ upon the Hearers Hearts:</l>
+               <l>His Charming Periods are paſt and gone,</l>
+               <l>And in his Peoples Lives muſt now be ſhown.</l>
+               <l>Pity ſuch Words in tranſient ſounds ſhould Die,</l>
+               <l>Or in a Study unregarded ly;</l>
+               <l>Pity each falling Line had not been Writ</l>
+               <l>In Charactors as laſting as his Wit;</l>
+               <l>That the next Age by him might learn to make</l>
+               <l>Thoſe Rules, by which they from that Place ſhould ſpeak.</l>
+               <l>The <hi>Goſpel</hi> in ſuch ſtreaming Senſe did flow,</l>
+               <l>When the <hi>Apoſtles</hi> Preach'd to Men Below:</l>
+               <l>The Current ſometimes troubled was, I own,</l>
+               <l>Which by his ſeeming Liſping oft was ſhown;</l>
+               <l>But 'twas the Torrent of his Eloquence,</l>
+               <l>The ſtrife betwixt his crowding Words and Senſe;</l>
+               <l>Still with ſuch hidden Influence he could dive,</l>
+               <l>And to his Hearers Breſt himſelf derive;</l>
+               <l>So gently touch each Fault and Feſter'd Part,</l>
+               <l>Yet the charm'd Patient not betray the Smart.</l>
+               <l>Could ſuch a pleaſing Force Evidence ſhow,</l>
+               <l>Yet ſtill the Sinner unoffended go:</l>
+               <l>It prov'd his <hi>Sermons</hi> could like <hi>Lightning</hi> Pierce</l>
+               <l>Quite to the Blade, the Scabbard ne'er the worſe:</l>
+               <l>Which ſhows thou only, and ſome happy few,</l>
+               <l>The true and genuine Art of Preaching knew.</l>
+               <l>Our Church will own, tho ſhe receives a Blow,</l>
+               <l>Yet ſtill a Numerous Race of Youths can ſhow,</l>
+               <l>Who by thy Doctrine and Example fed,</l>
+               <l>May come in time our Churches Cauſe to Head.</l>
+               <l>And, Oh! If thy Example this can do,</l>
+               <l>Why did'ſt thou not let fall thy Spirit too?</l>
+               <l>But ſay Bleſs'd Shade, ſo ſoon why would'ſt thou go,</l>
+               <l>And take thy ſelf from mournful Us below:</l>
+               <l>Tell me did'ſt thou by a fore-ſeeing Eye,</l>
+               <l>See ſome Black Tempeſt gathering in our Skie;</l>
+               <l>Was that the cauſe? —</l>
+               <l>I rather think the partial Hand of Fate</l>
+               <l>Did but too ill thy Soul and Body Mate.</l>
+               <l>If the Soul's Gaol the Body Stile we muſt,</l>
+               <l>Into the worſt of Priſons thine was thruſt:</l>
+               <l>Thou tir'd and a weary to the Grave did'ſt come,</l>
+               <l>But leave that Life which was grown Burdenſome.</l>
+               <l>Hold, happy Shade, here muſt my Number ceaſe,</l>
+               <l>No more I will preſume to vex thy Peace;</l>
+               <l>Beſides I ſee thy Praedeceſſors ſtand,</l>
+               <l>To meet and joy thee to the promis<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Land.</l>
+               <l>Go happy Saint, and there injoy that Reſt,</l>
+               <l>Which here on Earth is ſtill deni'd the Beſt.</l>
+               <l>All we can do, is to Adorn thy <hi>HEARSE</hi>
+               </l>
+               <l>And hang it round with this poor Mortal <hi>VERSE.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This may be Printed,</hi>
+            </p>
+            <closer>
+               <signed>R.L.S.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet,</hi> near <hi>Baynard's-Caſtle.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
